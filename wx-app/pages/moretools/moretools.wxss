@@ -1,0 +1,10 @@
+/* pages/moretools/moretools.wxss */
+.tools{
+margin: 30px;
+padding: 10px;
+box-shadow: 5px 5px #888888;
+border-radius: 25px;
+display: flex;
+justify-content: center; 
+align-items: center;
+}

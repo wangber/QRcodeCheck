@@ -1,0 +1,22 @@
+<!--pages/about/about.wxml-->
+<view class="container">
+  <view>
+    <h2>作品简介\n</h2>
+    <view style="magin-top:50px">\n</view>
+    <view class="introduce">本次微信小程序的制作目的主要是为了实现二维码安全检测。检测系统的整体架构采用多模块协作的方式完成设计，包括图像处理、黑白名单检测、URL特征检测等；相对于现有的大部分检测工具而言，有效提高了检测的准确率，为二维码用户提供更全面的扫码保障。此外，我们的工具还提供了其余的功能，包括二维码生成、URL安全性检测等。并在后期我们会进一步进行优化、增加更多有趣有用的新功能。\n</view>
+  </view>
+  
+  <view>
+    <h2>团队成员\n</h2>
+    <text>\n</text>
+    <view class="introduce">
+      <text><text class="name">王渤：</text>项目组长，负责统筹规划项目推进，包括技术选型、模块对接、总体框架设计等。\n</text>
+    <text><text class="name">常风智：</text>负责图像图像处理、二维码生成、二维码识别等工作模块。\n</text>
+    <text><text class="name">许逸凡：</text>负责黑白名单检测模块的所有工作，包括数据库维护、CURD接口设计等。\n</text>
+    <text><text class="name">陈慧嫔：</text>负责URL特征检测模块的左右工作，包括模型训练、优化、调参等。\n</text>
+    </view>
+  </view>
+  
+
+</view>
+

@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+ <text>
+ {{hello}}
+ </text>
+ <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1150058331,602518004&fm=26&gp=0.jpg" class="logo"></image>
+ <!-- 添加一个按钮 -->
+ <button bindtap="readImage" class="imgget">{{buttontext}}</button>
+ <button bindtap="Tomore" class="more">更多工具</button>
+</view>

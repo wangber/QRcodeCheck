@@ -1,0 +1,5 @@
+<!--pages/moretools/moretools.wxml-->
+<view class="container">
+<button bindtap="Tocc" class="tools" >二维码生成</button>
+<button bindtap="Touc" class="tools">URL安全检测</button>
+</view>

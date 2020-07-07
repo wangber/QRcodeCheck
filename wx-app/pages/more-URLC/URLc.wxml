@@ -1,0 +1,11 @@
+<!--pages/more-URLC/URLc.wxml-->
+<view class="container">
+<form bindsubmit="formSubmit">
+        <view class="input-row">
+            <label>检测内容：</label>
+            <input bindinput="getInput" name='url' value='' type="text" maxlength="255" placeholder="{{URLdata}}" />
+        </view>
+        <button bindtap="ToURLc" formType="submit" class="mybtn" type="primary">检测URL</button>
+    </form>
+</view>
+

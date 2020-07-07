@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/about/about",
+    "pages/moretools/moretools",
+    "pages/more-CreateCode/createCode",
+    "pages/more-URLC/URLc"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffff",
+    "navigationBarTitleText": "二维码安全检测",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "pages/index/img/index.png",
+        "selectedIconPath": "pages/index/img/index_s.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "关于",
+        "iconPath": "pages/about/img/about.png",
+        "selectedIconPath": "pages/about/img/about_s.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
