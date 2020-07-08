@@ -52,15 +52,15 @@ URL特征检测模块
 
 ![](https://gitee.com/wangber/imgbed/raw/master/img/20200708005736.png)
 
-![1594141392951](../noteimage/1594141392951.png)
+![](https://gitee.com/wangber/imgbed/raw/master/img/20200709003238.png)
 
 更多工具，提供二维码的生成、针对URL的检测：
 
-![1594141142887](../noteimage/1594141142887.png)
+![](https://gitee.com/wangber/imgbed/raw/master/img/20200709003308.png)
 分别进入两个工具，交互界面如下：根据相应的提示输入内容可以进行检测和二维码的生成：
-![1594141158071](../noteimage/1594141158071.png)
+![](https://gitee.com/wangber/imgbed/raw/master/img/20200709003339.png)
 
-​	![1594141170072](../noteimage/1594141170072.png)
+​	![](https://gitee.com/wangber/imgbed/raw/master/img/20200709003403.png)
 
 
 
@@ -69,3 +69,4 @@ URL特征检测模块
 * 黑白名单中的接口式设计思想，统一的参数传递设计，内部有轻耦合设计的影子；
 * 自主使用Socket数据传递完成总体组织框架的设计，实现模块间通信，体现微服务思想与设计风格；
 * 多模块检测，较高的时效性和可用性；
+
